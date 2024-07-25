@@ -1,0 +1,1060 @@
+2024-07-25 00:46:50 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 00:46:50 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 468 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 00:46:50 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 00:46:50 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 00:46:50 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 00:46:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 00:46:52 - Finished Spring Data repository scanning in 81 ms. Found 1 JPA repository interface.
+2024-07-25 00:46:53 - Tomcat initialized with port 8080 (http)
+2024-07-25 00:46:53 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 00:46:53 - Starting service [Tomcat]
+2024-07-25 00:46:53 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 00:46:53 - Initializing Spring embedded WebApplicationContext
+2024-07-25 00:46:53 - Root WebApplicationContext: initialization completed in 2442 ms
+2024-07-25 00:46:53 - HikariPool-1 - Starting...
+2024-07-25 00:46:53 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 00:46:53 - HikariPool-1 - Start completed.
+2024-07-25 00:46:53 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 00:46:54 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 00:46:54 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 00:46:54 - HHH000026: Second-level cache disabled
+2024-07-25 00:46:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 00:46:54 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 00:46:55 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 00:46:55 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 00:46:56 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 00:46:57 - LiveReload server is running on port 35729
+2024-07-25 00:46:57 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 00:46:57 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 00:46:57 - Started FxDealsLoggerApplication in 7.519 seconds (process running for 8.943)
+2024-07-25 00:47:05 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 00:47:05 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 00:47:05 - Completed initialization in 2 ms
+2024-07-25 00:47:05 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 00:47:05 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 00:49:22 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 00:49:22 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 00:49:22 - HikariPool-1 - Shutdown initiated...
+2024-07-25 00:49:22 - HikariPool-1 - Shutdown completed.
+2024-07-25 00:49:39 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 00:49:39 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 18912 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 00:49:39 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 00:49:39 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 00:49:39 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 00:49:40 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 00:49:40 - Finished Spring Data repository scanning in 75 ms. Found 1 JPA repository interface.
+2024-07-25 00:49:41 - Tomcat initialized with port 8080 (http)
+2024-07-25 00:49:41 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 00:49:41 - Starting service [Tomcat]
+2024-07-25 00:49:41 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 00:49:41 - Initializing Spring embedded WebApplicationContext
+2024-07-25 00:49:41 - Root WebApplicationContext: initialization completed in 2135 ms
+2024-07-25 00:49:41 - HikariPool-1 - Starting...
+2024-07-25 00:49:42 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 00:49:42 - HikariPool-1 - Start completed.
+2024-07-25 00:49:42 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 00:49:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 00:49:42 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 00:49:42 - HHH000026: Second-level cache disabled
+2024-07-25 00:49:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 00:49:43 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 00:49:43 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 00:49:43 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 00:49:44 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 00:49:44 - LiveReload server is running on port 35729
+2024-07-25 00:49:45 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 00:49:45 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 00:49:45 - Started FxDealsLoggerApplication in 6.36 seconds (process running for 7.085)
+2024-07-25 00:49:49 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 00:49:49 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 00:49:49 - Completed initialization in 1 ms
+2024-07-25 00:49:49 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 00:49:49 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:11:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:11:59 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:11:59 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:11:59 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:12:07 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:12:07 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 19848 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:12:07 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:12:07 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:12:07 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:12:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:12:09 - Finished Spring Data repository scanning in 79 ms. Found 1 JPA repository interface.
+2024-07-25 01:12:10 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:12:10 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:12:10 - Starting service [Tomcat]
+2024-07-25 01:12:10 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:12:10 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:12:10 - Root WebApplicationContext: initialization completed in 2450 ms
+2024-07-25 01:12:10 - HikariPool-1 - Starting...
+2024-07-25 01:12:10 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:12:10 - HikariPool-1 - Start completed.
+2024-07-25 01:12:10 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:12:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:12:10 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:12:10 - HHH000026: Second-level cache disabled
+2024-07-25 01:12:11 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:12:11 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:12:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:12:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:12:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:12:13 - LiveReload server is running on port 35729
+2024-07-25 01:12:13 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:12:13 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:12:13 - Started FxDealsLoggerApplication in 7.024 seconds (process running for 8.014)
+2024-07-25 01:12:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:12:15 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:12:15 - Completed initialization in 2 ms
+2024-07-25 01:12:15 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:12:15 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:12:34 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:12:34 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:13:11 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:13:11 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:13:11 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:13:11 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:14:05 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:14:05 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 7460 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:14:05 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:14:05 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:14:05 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:14:06 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:14:06 - Finished Spring Data repository scanning in 72 ms. Found 1 JPA repository interface.
+2024-07-25 01:14:07 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:14:07 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:14:07 - Starting service [Tomcat]
+2024-07-25 01:14:07 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:14:07 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:14:07 - Root WebApplicationContext: initialization completed in 2172 ms
+2024-07-25 01:14:07 - HikariPool-1 - Starting...
+2024-07-25 01:14:07 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:14:07 - HikariPool-1 - Start completed.
+2024-07-25 01:14:08 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:14:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:14:08 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:14:08 - HHH000026: Second-level cache disabled
+2024-07-25 01:14:08 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:14:08 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:14:09 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:14:09 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:14:10 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:14:10 - LiveReload server is running on port 35729
+2024-07-25 01:14:10 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:14:10 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:14:10 - Started FxDealsLoggerApplication in 6.83 seconds (process running for 7.848)
+2024-07-25 01:14:11 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:14:11 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:14:11 - Completed initialization in 2 ms
+2024-07-25 01:14:11 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:14:11 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:14:29 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:14:29 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:14:29 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:14:29 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:14:35 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:14:35 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 10152 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:14:35 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:14:36 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:14:36 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:14:37 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:14:37 - Finished Spring Data repository scanning in 135 ms. Found 1 JPA repository interface.
+2024-07-25 01:14:38 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:14:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:14:38 - Starting service [Tomcat]
+2024-07-25 01:14:38 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:14:38 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:14:38 - Root WebApplicationContext: initialization completed in 2704 ms
+2024-07-25 01:14:38 - HikariPool-1 - Starting...
+2024-07-25 01:14:39 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:14:39 - HikariPool-1 - Start completed.
+2024-07-25 01:14:39 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:14:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:14:39 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:14:39 - HHH000026: Second-level cache disabled
+2024-07-25 01:14:40 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:14:40 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:14:41 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:14:41 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:14:41 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:14:42 - LiveReload server is running on port 35729
+2024-07-25 01:14:42 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:14:42 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:14:42 - Started FxDealsLoggerApplication in 7.786 seconds (process running for 9.79)
+2024-07-25 01:15:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:15:16 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:15:16 - Completed initialization in 2 ms
+2024-07-25 01:15:16 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:15:16 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:15:24 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:15:24 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:15:24 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:15:24 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:16:13 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:16:14 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 17508 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:16:14 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:16:14 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:16:14 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:16:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:16:15 - Finished Spring Data repository scanning in 109 ms. Found 1 JPA repository interface.
+2024-07-25 01:16:17 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:16:17 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:16:17 - Starting service [Tomcat]
+2024-07-25 01:16:17 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:16:17 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:16:17 - Root WebApplicationContext: initialization completed in 2998 ms
+2024-07-25 01:16:17 - HikariPool-1 - Starting...
+2024-07-25 01:16:17 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:16:17 - HikariPool-1 - Start completed.
+2024-07-25 01:16:17 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:16:17 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:16:17 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:16:18 - HHH000026: Second-level cache disabled
+2024-07-25 01:16:18 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:16:18 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:16:19 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:16:19 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:16:20 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:16:21 - LiveReload server is running on port 35729
+2024-07-25 01:16:21 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:16:21 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:16:21 - Started FxDealsLoggerApplication in 8.367 seconds (process running for 9.452)
+2024-07-25 01:16:23 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:16:23 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:16:23 - Completed initialization in 2 ms
+2024-07-25 01:16:23 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:16:23 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:17:48 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:17:48 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:17:48 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:17:48 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:17:58 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:17:58 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 9204 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:17:58 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:17:58 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:17:58 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:17:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:17:59 - Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interface.
+2024-07-25 01:18:00 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:18:00 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:18:00 - Starting service [Tomcat]
+2024-07-25 01:18:00 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:18:01 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:18:01 - Root WebApplicationContext: initialization completed in 2584 ms
+2024-07-25 01:18:01 - HikariPool-1 - Starting...
+2024-07-25 01:18:01 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:18:01 - HikariPool-1 - Start completed.
+2024-07-25 01:18:01 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:18:01 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:18:01 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:18:01 - HHH000026: Second-level cache disabled
+2024-07-25 01:18:02 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:18:02 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:18:03 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:18:03 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:18:04 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:18:04 - LiveReload server is running on port 35729
+2024-07-25 01:18:04 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:18:04 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:18:04 - Started FxDealsLoggerApplication in 7.726 seconds (process running for 8.648)
+2024-07-25 01:18:19 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:18:19 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:18:19 - Completed initialization in 1 ms
+2024-07-25 01:18:30 - Received request to create deal: {
+	"deal": "12345"
+}
+2024-07-25 01:19:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:19:15 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:19:15 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:19:15 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:20:49 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:20:49 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 20280 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:20:49 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:20:49 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:20:49 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:20:50 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:20:50 - Finished Spring Data repository scanning in 84 ms. Found 1 JPA repository interface.
+2024-07-25 01:20:51 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:20:51 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:20:51 - Starting service [Tomcat]
+2024-07-25 01:20:51 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:20:51 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:20:51 - Root WebApplicationContext: initialization completed in 2363 ms
+2024-07-25 01:20:52 - HikariPool-1 - Starting...
+2024-07-25 01:20:52 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:20:52 - HikariPool-1 - Start completed.
+2024-07-25 01:20:52 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:20:52 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:20:52 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:20:52 - HHH000026: Second-level cache disabled
+2024-07-25 01:20:53 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:20:53 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:20:54 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:20:54 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:20:55 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:20:55 - LiveReload server is running on port 35729
+2024-07-25 01:20:55 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:20:55 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:20:55 - Started FxDealsLoggerApplication in 7.558 seconds (process running for 8.431)
+2024-07-25 01:20:56 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:20:56 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:20:56 - Completed initialization in 2 ms
+2024-07-25 01:20:56 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:20:56 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:21:40 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:21:40 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:21:40 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:21:40 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:22:22 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:22:22 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 5036 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:22:22 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:22:22 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:22:22 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:22:24 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:22:24 - Finished Spring Data repository scanning in 100 ms. Found 1 JPA repository interface.
+2024-07-25 01:22:25 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:22:25 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:22:25 - Starting service [Tomcat]
+2024-07-25 01:22:25 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:22:25 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:22:25 - Root WebApplicationContext: initialization completed in 2462 ms
+2024-07-25 01:22:25 - HikariPool-1 - Starting...
+2024-07-25 01:22:25 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:22:25 - HikariPool-1 - Start completed.
+2024-07-25 01:22:25 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:22:25 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:22:26 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:22:26 - HHH000026: Second-level cache disabled
+2024-07-25 01:22:26 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:22:26 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:22:27 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:22:27 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:22:28 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:22:29 - LiveReload server is running on port 35729
+2024-07-25 01:22:29 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:22:29 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:22:29 - Started FxDealsLoggerApplication in 7.625 seconds (process running for 8.577)
+2024-07-25 01:22:35 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:22:35 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:22:35 - Completed initialization in 1 ms
+2024-07-25 01:22:35 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:22:35 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:22:44 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:22:44 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:22:44 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:22:44 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:23:02 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:23:02 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 9604 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:23:02 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:23:02 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:23:02 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:23:04 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:23:04 - Finished Spring Data repository scanning in 91 ms. Found 1 JPA repository interface.
+2024-07-25 01:23:05 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:23:05 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:23:05 - Starting service [Tomcat]
+2024-07-25 01:23:05 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:23:05 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:23:05 - Root WebApplicationContext: initialization completed in 2488 ms
+2024-07-25 01:23:05 - HikariPool-1 - Starting...
+2024-07-25 01:23:05 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:23:05 - HikariPool-1 - Start completed.
+2024-07-25 01:23:05 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:23:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:23:05 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:23:05 - HHH000026: Second-level cache disabled
+2024-07-25 01:23:06 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:23:06 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:23:07 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:23:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:23:08 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:23:08 - LiveReload server is running on port 35729
+2024-07-25 01:23:08 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:23:08 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:23:08 - Started FxDealsLoggerApplication in 7.342 seconds (process running for 8.182)
+2024-07-25 01:23:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:23:16 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:23:16 - Completed initialization in 1 ms
+2024-07-25 01:23:16 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:23:16 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:23:40 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:23:40 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:23:40 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:23:40 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:23:58 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:23:58 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 15952 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:23:58 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:23:58 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:23:58 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:24:00 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:24:00 - Finished Spring Data repository scanning in 120 ms. Found 1 JPA repository interface.
+2024-07-25 01:24:01 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:24:01 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:24:01 - Starting service [Tomcat]
+2024-07-25 01:24:01 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:24:01 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:24:01 - Root WebApplicationContext: initialization completed in 2701 ms
+2024-07-25 01:24:01 - HikariPool-1 - Starting...
+2024-07-25 01:24:02 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:24:02 - HikariPool-1 - Start completed.
+2024-07-25 01:24:02 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:24:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:24:02 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:24:02 - HHH000026: Second-level cache disabled
+2024-07-25 01:24:03 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:24:03 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:24:04 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:24:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:24:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:24:05 - LiveReload server is running on port 35729
+2024-07-25 01:24:05 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:24:05 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:24:05 - Started FxDealsLoggerApplication in 8.291 seconds (process running for 9.233)
+2024-07-25 01:24:08 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:24:08 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:24:08 - Completed initialization in 1 ms
+2024-07-25 01:24:08 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:24:08 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:24:39 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:24:39 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:24:39 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:24:39 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:25:07 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:25:07 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 18224 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:25:07 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:25:07 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:25:07 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:25:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:25:09 - Finished Spring Data repository scanning in 92 ms. Found 1 JPA repository interface.
+2024-07-25 01:25:10 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:25:10 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:25:10 - Starting service [Tomcat]
+2024-07-25 01:25:10 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:25:10 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:25:10 - Root WebApplicationContext: initialization completed in 2502 ms
+2024-07-25 01:25:10 - HikariPool-1 - Starting...
+2024-07-25 01:25:10 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:25:10 - HikariPool-1 - Start completed.
+2024-07-25 01:25:10 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:25:10 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:25:10 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:25:10 - HHH000026: Second-level cache disabled
+2024-07-25 01:25:11 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:25:11 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:25:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:25:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:25:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:25:14 - LiveReload server is running on port 35729
+2024-07-25 01:25:14 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:25:14 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:25:14 - Started FxDealsLoggerApplication in 7.922 seconds (process running for 8.936)
+2024-07-25 01:25:14 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:25:14 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:25:14 - Completed initialization in 1 ms
+2024-07-25 01:25:14 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:25:14 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:25:15 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:25:15 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:27:45 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:27:45 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:27:45 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:27:45 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:28:01 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:28:02 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 19460 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:28:02 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:28:02 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:28:02 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:28:03 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:28:03 - Finished Spring Data repository scanning in 201 ms. Found 1 JPA repository interface.
+2024-07-25 01:28:04 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:28:04 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:28:04 - Starting service [Tomcat]
+2024-07-25 01:28:04 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:28:04 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:28:04 - Root WebApplicationContext: initialization completed in 2659 ms
+2024-07-25 01:28:04 - HikariPool-1 - Starting...
+2024-07-25 01:28:05 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:28:05 - HikariPool-1 - Start completed.
+2024-07-25 01:28:05 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:28:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:28:05 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:28:05 - HHH000026: Second-level cache disabled
+2024-07-25 01:28:06 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:28:06 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:28:07 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:28:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:28:08 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:28:08 - LiveReload server is running on port 35729
+2024-07-25 01:28:08 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:28:08 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:28:08 - Started FxDealsLoggerApplication in 7.814 seconds (process running for 8.727)
+2024-07-25 01:28:08 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:28:08 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:28:08 - Completed initialization in 1 ms
+2024-07-25 01:28:09 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:28:09 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:28:10 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:28:10 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:29:27 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:29:27 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:29:27 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:29:27 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:29:35 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:29:35 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 21004 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:29:35 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:29:35 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:29:35 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:29:37 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:29:37 - Finished Spring Data repository scanning in 96 ms. Found 1 JPA repository interface.
+2024-07-25 01:29:38 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:29:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:29:38 - Starting service [Tomcat]
+2024-07-25 01:29:38 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:29:38 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:29:38 - Root WebApplicationContext: initialization completed in 2624 ms
+2024-07-25 01:29:38 - HikariPool-1 - Starting...
+2024-07-25 01:29:38 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:29:38 - HikariPool-1 - Start completed.
+2024-07-25 01:29:38 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:29:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:29:39 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:29:39 - HHH000026: Second-level cache disabled
+2024-07-25 01:29:39 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:29:39 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:29:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:29:40 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:29:41 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:29:42 - LiveReload server is running on port 35729
+2024-07-25 01:29:42 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:29:42 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:29:42 - Started FxDealsLoggerApplication in 7.803 seconds (process running for 8.658)
+2024-07-25 01:29:48 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:29:48 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:29:48 - Completed initialization in 1 ms
+2024-07-25 01:29:48 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:29:48 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:29:55 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:29:55 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:30:38 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:30:38 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:31:34 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:31:34 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:31:34 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:31:34 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:32:24 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:32:24 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 7308 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:32:24 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:32:24 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:32:24 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:32:26 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:32:26 - Finished Spring Data repository scanning in 85 ms. Found 1 JPA repository interface.
+2024-07-25 01:32:27 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:32:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:32:27 - Starting service [Tomcat]
+2024-07-25 01:32:27 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:32:27 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:32:27 - Root WebApplicationContext: initialization completed in 2442 ms
+2024-07-25 01:32:27 - HikariPool-1 - Starting...
+2024-07-25 01:32:27 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:32:27 - HikariPool-1 - Start completed.
+2024-07-25 01:32:27 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:32:27 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:32:28 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:32:28 - HHH000026: Second-level cache disabled
+2024-07-25 01:32:28 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:32:28 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:32:29 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:32:29 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:32:30 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:32:30 - LiveReload server is running on port 35729
+2024-07-25 01:32:30 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:32:30 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:32:30 - Started FxDealsLoggerApplication in 7.214 seconds (process running for 8.097)
+2024-07-25 01:32:32 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:32:32 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:32:32 - Completed initialization in 1 ms
+2024-07-25 01:32:33 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:32:33 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:35:09 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:35:09 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:35:09 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:35:09 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:35:17 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:35:17 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 19104 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:35:17 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:35:17 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:35:17 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:35:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:35:19 - Finished Spring Data repository scanning in 86 ms. Found 1 JPA repository interface.
+2024-07-25 01:35:20 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:35:20 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:35:20 - Starting service [Tomcat]
+2024-07-25 01:35:20 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:35:20 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:35:20 - Root WebApplicationContext: initialization completed in 2417 ms
+2024-07-25 01:35:20 - HikariPool-1 - Starting...
+2024-07-25 01:35:20 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:35:20 - HikariPool-1 - Start completed.
+2024-07-25 01:35:20 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:35:20 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:35:20 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:35:21 - HHH000026: Second-level cache disabled
+2024-07-25 01:35:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:35:21 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:35:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:35:22 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:35:23 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:35:23 - LiveReload server is running on port 35729
+2024-07-25 01:35:23 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:35:24 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:35:24 - Started FxDealsLoggerApplication in 7.331 seconds (process running for 8.143)
+2024-07-25 01:35:25 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:35:25 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:35:25 - Completed initialization in 2 ms
+2024-07-25 01:35:25 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:35:25 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:35:27 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:35:27 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:39:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:39:19 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:39:19 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:39:19 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:39:30 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:39:30 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 1508 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:39:30 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:39:30 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:39:30 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:39:32 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:39:32 - Finished Spring Data repository scanning in 102 ms. Found 1 JPA repository interface.
+2024-07-25 01:39:33 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:39:33 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:39:33 - Starting service [Tomcat]
+2024-07-25 01:39:33 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:39:33 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:39:33 - Root WebApplicationContext: initialization completed in 2834 ms
+2024-07-25 01:39:33 - HikariPool-1 - Starting...
+2024-07-25 01:39:33 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:39:33 - HikariPool-1 - Start completed.
+2024-07-25 01:39:33 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:39:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:39:34 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:39:34 - HHH000026: Second-level cache disabled
+2024-07-25 01:39:34 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:39:34 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:39:35 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:39:35 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:39:36 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:39:37 - LiveReload server is running on port 35729
+2024-07-25 01:39:37 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:39:37 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:39:37 - Started FxDealsLoggerApplication in 8.177 seconds (process running for 9.388)
+2024-07-25 01:39:37 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:39:37 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:39:37 - Completed initialization in 1 ms
+2024-07-25 01:39:37 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:39:37 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:39:39 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:39:39 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:41:52 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:41:52 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:41:52 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:41:52 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:42:32 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:42:32 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 3164 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:42:32 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:42:32 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:42:32 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:42:34 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:42:34 - Finished Spring Data repository scanning in 76 ms. Found 1 JPA repository interface.
+2024-07-25 01:42:35 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:42:35 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:42:35 - Starting service [Tomcat]
+2024-07-25 01:42:35 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:42:35 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:42:35 - Root WebApplicationContext: initialization completed in 2432 ms
+2024-07-25 01:42:35 - HikariPool-1 - Starting...
+2024-07-25 01:42:35 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:42:35 - HikariPool-1 - Start completed.
+2024-07-25 01:42:35 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:42:35 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:42:35 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:42:35 - HHH000026: Second-level cache disabled
+2024-07-25 01:42:36 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:42:36 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:42:37 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:42:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:42:38 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:42:38 - LiveReload server is running on port 35729
+2024-07-25 01:42:38 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:42:38 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:42:38 - Started FxDealsLoggerApplication in 7.259 seconds (process running for 8.158)
+2024-07-25 01:43:05 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:43:05 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:43:05 - Completed initialization in 1 ms
+2024-07-25 01:43:06 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:43:06 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:43:08 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:43:08 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:43:09 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-25 01:43:09 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-25 01:46:47 - Received request to create deal: com.example.FXDealsLogger.api.model.DealObject@601b00eb
+2024-07-25 01:46:47 - Exception: Validation failed for classes [com.example.FXDealsLogger.api.model.DealEntity] during persist time for groups [jakarta.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}
+	ConstraintViolationImpl{interpolatedMessage='Deal timestamp is required', propertyPath=dealTimestamp, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal timestamp is required'}
+	ConstraintViolationImpl{interpolatedMessage='From Currency ISO Code is required', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='From Currency ISO Code is required'}
+	ConstraintViolationImpl{interpolatedMessage='Deal Amount is required', propertyPath=dealAmount, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Amount is required'}
+	ConstraintViolationImpl{interpolatedMessage='To Currency ISO Code is required', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='To Currency ISO Code is required'}
+	ConstraintViolationImpl{interpolatedMessage='Deal Unique Id is required', propertyPath=dealId, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Unique Id is required'}
+	ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}
+]
+2024-07-25 01:46:47 - Resolved [jakarta.validation.ConstraintViolationException: Validation failed for classes [com.example.FXDealsLogger.api.model.DealEntity] during persist time for groups [jakarta.validation.groups.Default, ]<EOL>List of constraint violations:[<EOL>?ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Deal timestamp is required', propertyPath=dealTimestamp, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal timestamp is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='From Currency ISO Code is required', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='From Currency ISO Code is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Deal Amount is required', propertyPath=dealAmount, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Amount is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='To Currency ISO Code is required', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='To Currency ISO Code is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Deal Unique Id is required', propertyPath=dealId, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Unique Id is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}<EOL>]]
+2024-07-25 01:46:47 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:46:48 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:46:48 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:46:48 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:47:07 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:47:08 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 16888 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:47:08 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:47:08 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:47:08 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:47:11 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:47:11 - Finished Spring Data repository scanning in 336 ms. Found 1 JPA repository interface.
+2024-07-25 01:47:13 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:47:13 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:47:13 - Starting service [Tomcat]
+2024-07-25 01:47:13 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:47:13 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:47:13 - Root WebApplicationContext: initialization completed in 5380 ms
+2024-07-25 01:47:13 - HikariPool-1 - Starting...
+2024-07-25 01:47:14 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:47:14 - HikariPool-1 - Start completed.
+2024-07-25 01:47:14 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:47:14 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:47:14 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:47:15 - HHH000026: Second-level cache disabled
+2024-07-25 01:47:15 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:47:15 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:47:16 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:47:17 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:47:17 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:47:18 - LiveReload server is running on port 35729
+2024-07-25 01:47:18 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:47:18 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:47:18 - Started FxDealsLoggerApplication in 12.104 seconds (process running for 13.871)
+2024-07-25 01:47:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:47:21 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:47:21 - Completed initialization in 1 ms
+2024-07-25 01:47:22 - Exception: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.example.FXDealsLogger.api.model.DealEntity> com.example.FXDealsLogger.api.controller.DealController.createDeal(com.example.FXDealsLogger.api.model.DealEntity): [Field error in object 'dealEntity' on field 'dealId': rejected value [null]; codes [NotBlank.dealEntity.dealId,NotBlank.dealId,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [dealEntity.dealId,dealId]; arguments []; default message [dealId]]; default message [Deal Unique Id is required]] 
+2024-07-25 01:47:22 - Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.example.FXDealsLogger.api.model.DealEntity> com.example.FXDealsLogger.api.controller.DealController.createDeal(com.example.FXDealsLogger.api.model.DealEntity): [Field error in object 'dealEntity' on field 'dealId': rejected value [null]; codes [NotBlank.dealEntity.dealId,NotBlank.dealId,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [dealEntity.dealId,dealId]; arguments []; default message [dealId]]; default message [Deal Unique Id is required]] ]
+2024-07-25 01:48:32 - Received request to create deal: DealEntity(id=null, dealId=12345, fromCurrencyIsoCode=USD, toCurrencyIsoCode=EUR, dealTimestamp=2024-01-13T12:00, dealAmount=1000.5)
+2024-07-25 01:48:33 - Exception: Validation failed for classes [com.example.FXDealsLogger.api.model.DealEntity] during persist time for groups [jakarta.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Deal Unique Id is required', propertyPath=dealId, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Unique Id is required'}
+	ConstraintViolationImpl{interpolatedMessage='To Currency ISO Code is required', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='To Currency ISO Code is required'}
+	ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}
+	ConstraintViolationImpl{interpolatedMessage='Deal Amount is required', propertyPath=dealAmount, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Amount is required'}
+	ConstraintViolationImpl{interpolatedMessage='From Currency ISO Code is required', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='From Currency ISO Code is required'}
+	ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}
+	ConstraintViolationImpl{interpolatedMessage='Deal timestamp is required', propertyPath=dealTimestamp, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal timestamp is required'}
+]
+2024-07-25 01:48:33 - Resolved [jakarta.validation.ConstraintViolationException: Validation failed for classes [com.example.FXDealsLogger.api.model.DealEntity] during persist time for groups [jakarta.validation.groups.Default, ]<EOL>List of constraint violations:[<EOL>?ConstraintViolationImpl{interpolatedMessage='Deal Unique Id is required', propertyPath=dealId, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Unique Id is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='To Currency ISO Code is required', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='To Currency ISO Code is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=toCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Deal Amount is required', propertyPath=dealAmount, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal Amount is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='From Currency ISO Code is required', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='From Currency ISO Code is required'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Invalid From Currency ISO Code', propertyPath=fromCurrencyIsoCode, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Invalid From Currency ISO Code'}<EOL>?ConstraintViolationImpl{interpolatedMessage='Deal timestamp is required', propertyPath=dealTimestamp, rootBeanClass=class com.example.FXDealsLogger.api.model.DealEntity, messageTemplate='Deal timestamp is required'}<EOL>]]
+2024-07-25 01:48:33 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:48:33 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:48:33 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:48:33 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:48:55 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:48:56 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 20828 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:48:56 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:48:56 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-25 01:48:56 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-25 01:48:57 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:48:57 - Finished Spring Data repository scanning in 94 ms. Found 1 JPA repository interface.
+2024-07-25 01:48:59 - Tomcat initialized with port 8080 (http)
+2024-07-25 01:48:59 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:48:59 - Starting service [Tomcat]
+2024-07-25 01:48:59 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-25 01:48:59 - Initializing Spring embedded WebApplicationContext
+2024-07-25 01:48:59 - Root WebApplicationContext: initialization completed in 2995 ms
+2024-07-25 01:48:59 - HikariPool-1 - Starting...
+2024-07-25 01:48:59 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-25 01:48:59 - HikariPool-1 - Start completed.
+2024-07-25 01:48:59 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-25 01:49:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:49:00 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:49:00 - HHH000026: Second-level cache disabled
+2024-07-25 01:49:00 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:49:00 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:49:02 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:49:03 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:49:03 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-25 01:49:04 - LiveReload server is running on port 35729
+2024-07-25 01:49:04 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-25 01:49:04 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-25 01:49:04 - Started FxDealsLoggerApplication in 9.985 seconds (process running for 10.901)
+2024-07-25 01:49:12 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-25 01:49:12 - Initializing Servlet 'dispatcherServlet'
+2024-07-25 01:49:12 - Completed initialization in 1 ms
+2024-07-25 01:49:16 - Received request to create deal: DealEntity(id=null, dealId=12345, fromCurrencyIsoCode=USD, toCurrencyIsoCode=EUR, dealTimestamp=2024-01-13T12:00, dealAmount=1000.5)
+2024-07-25 01:49:16 - Deal saved successfully with ID: 1
+2024-07-25 01:49:16 - Deal created successfully with ID: 1
+2024-07-25 01:49:23 - Exception: No static resource favicon.ico.
+2024-07-25 01:49:23 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2024-07-25 01:49:27 - Exception: No static resource favicon.ico.
+2024-07-25 01:49:27 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.]
+2024-07-25 01:49:59 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:49:59 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-25 01:49:59 - HikariPool-1 - Shutdown initiated...
+2024-07-25 01:49:59 - HikariPool-1 - Shutdown completed.
+2024-07-25 01:52:18 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:52:19 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 17940 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:52:19 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:52:19 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:52:19 - Finished Spring Data repository scanning in 85 ms. Found 1 JPA repository interface.
+2024-07-25 01:52:19 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 01:52:20 - Starting embedded database: url='jdbc:h2:mem:c550e2af-0c12-43dc-843f-602bab2aafe3;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 01:52:20 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:52:20 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:52:20 - HHH000026: Second-level cache disabled
+2024-07-25 01:52:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:52:21 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:52:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:52:22 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:52:23 - Started FxDealsLoggerApplicationTests in 4.887 seconds (process running for 6.541)
+2024-07-25 01:52:24 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:56:14 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 01:56:14 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 11708 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 01:56:14 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 01:56:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 01:56:15 - Finished Spring Data repository scanning in 75 ms. Found 1 JPA repository interface.
+2024-07-25 01:56:15 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 01:56:15 - Starting embedded database: url='jdbc:h2:mem:701e8fd6-a0d2-445f-8946-474b1d9029a4;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 01:56:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 01:56:16 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 01:56:16 - HHH000026: Second-level cache disabled
+2024-07-25 01:56:16 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 01:56:16 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 01:56:17 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 01:56:17 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 01:56:18 - Started FxDealsLoggerApplicationTests in 4.462 seconds (process running for 5.822)
+2024-07-25 01:56:19 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:20:38 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 15056 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 12:20:38 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 12:20:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 12:20:38 - Finished Spring Data repository scanning in 83 ms. Found 1 JPA repository interface.
+2024-07-25 12:20:38 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 12:20:39 - Starting embedded database: url='jdbc:h2:mem:fde9adc3-3d6c-4159-97f5-15d78b9783dd;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 12:20:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 12:20:39 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 12:20:39 - HHH000026: Second-level cache disabled
+2024-07-25 12:20:39 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 12:20:39 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 12:20:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 12:20:40 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:20:41 - Started FxDealsLoggerApplicationTests in 3.891 seconds (process running for 8.206)
+2024-07-25 12:20:41 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:21:20 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 23836 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 12:21:20 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 12:21:21 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 12:21:21 - Finished Spring Data repository scanning in 71 ms. Found 1 JPA repository interface.
+2024-07-25 12:21:21 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 12:21:21 - Starting embedded database: url='jdbc:h2:mem:14382adf-24e7-418a-928a-74e0f9ee639d;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 12:21:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 12:21:21 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 12:21:21 - HHH000026: Second-level cache disabled
+2024-07-25 12:21:22 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 12:21:22 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 12:21:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 12:21:23 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:21:23 - Started FxDealsLoggerApplicationTests in 3.592 seconds (process running for 7.72)
+2024-07-25 12:21:24 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:22:19 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 12:22:19 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 25228 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 12:22:19 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 12:22:20 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 12:22:20 - Finished Spring Data repository scanning in 74 ms. Found 1 JPA repository interface.
+2024-07-25 12:22:20 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 12:22:20 - Starting embedded database: url='jdbc:h2:mem:32439c17-7180-4aaf-acc8-334953258df5;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 12:22:21 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 12:22:21 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 12:22:21 - HHH000026: Second-level cache disabled
+2024-07-25 12:22:21 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 12:22:21 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 12:22:22 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 12:22:22 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:22:23 - Started FxDealsLoggerApplicationTests in 4.447 seconds (process running for 5.829)
+2024-07-25 12:22:24 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:25:12 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 12:25:12 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 8484 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 12:25:12 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 12:25:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 12:25:13 - Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interface.
+2024-07-25 12:25:13 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 12:25:13 - Starting embedded database: url='jdbc:h2:mem:c80e6ae8-c4e4-4695-a7bc-e4a3d2eb8184;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 12:25:14 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 12:25:14 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 12:25:14 - HHH000026: Second-level cache disabled
+2024-07-25 12:25:14 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 12:25:14 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 12:25:15 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 12:25:15 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:25:16 - Started FxDealsLoggerApplicationTests in 4.337 seconds (process running for 5.538)
+2024-07-25 12:25:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:25:43 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 12:25:44 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 22176 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 12:25:44 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 12:25:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 12:25:44 - Finished Spring Data repository scanning in 64 ms. Found 1 JPA repository interface.
+2024-07-25 12:25:44 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 12:25:45 - Starting embedded database: url='jdbc:h2:mem:dccc4210-c34e-4cf5-a649-7612b5565714;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 12:25:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 12:25:45 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 12:25:45 - HHH000026: Second-level cache disabled
+2024-07-25 12:25:46 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 12:25:46 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 12:25:47 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 12:25:47 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:25:47 - Started FxDealsLoggerApplicationTests in 4.359 seconds (process running for 6.023)
+2024-07-25 12:25:48 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:28:58 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 12:28:58 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 22736 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 12:28:58 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 12:28:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 12:28:59 - Finished Spring Data repository scanning in 81 ms. Found 1 JPA repository interface.
+2024-07-25 12:28:59 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 12:28:59 - Starting embedded database: url='jdbc:h2:mem:dec7e6e9-ae0b-4dd9-aeb8-6647808eea57;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 12:29:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 12:29:00 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 12:29:00 - HHH000026: Second-level cache disabled
+2024-07-25 12:29:01 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 12:29:01 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 12:29:02 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 12:29:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 12:29:03 - Started FxDealsLoggerApplicationTests in 4.96 seconds (process running for 6.917)
+2024-07-25 12:29:04 - Initializing Spring TestDispatcherServlet ''
+2024-07-25 12:29:04 - Initializing Servlet ''
+2024-07-25 12:29:04 - Completed initialization in 4 ms
+2024-07-25 12:29:04 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:35:07 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 22464 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 14:35:07 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 14:35:08 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 14:35:08 - Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interface.
+2024-07-25 14:35:08 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 14:35:08 - Starting embedded database: url='jdbc:h2:mem:c6b3441e-8e53-4690-ae7c-2322b0ed6df2;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 14:35:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 14:35:09 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 14:35:09 - HHH000026: Second-level cache disabled
+2024-07-25 14:35:09 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 14:35:09 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 14:35:09 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 14:35:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:35:10 - Started FxDealsLoggerApplicationTests in 3.383 seconds (process running for 7.693)
+2024-07-25 14:35:11 - Deal saved successfully with ID: null
+2024-07-25 14:35:11 - Deal with this ID dealId123 already exists
+2024-07-25 14:35:11 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:39:10 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 11364 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 14:39:10 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 14:39:10 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 14:39:10 - Finished Spring Data repository scanning in 68 ms. Found 1 JPA repository interface.
+2024-07-25 14:39:10 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 14:39:10 - Starting embedded database: url='jdbc:h2:mem:363dcc4a-e33e-4988-8411-c87877783378;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 14:39:11 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 14:39:11 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 14:39:11 - HHH000026: Second-level cache disabled
+2024-07-25 14:39:11 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 14:39:11 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 14:39:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 14:39:12 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:39:12 - Started FxDealsLoggerApplicationTests in 3.32 seconds (process running for 7.764)
+2024-07-25 14:39:13 - Deal saved successfully with ID: null
+2024-07-25 14:39:13 - Deal with this ID dealId123 already exists
+2024-07-25 14:39:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:41:58 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 26080 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 14:41:58 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 14:41:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 14:41:59 - Finished Spring Data repository scanning in 62 ms. Found 1 JPA repository interface.
+2024-07-25 14:41:59 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 14:41:59 - Starting embedded database: url='jdbc:h2:mem:8ac916d9-013e-4845-9ecb-e27711623b8d;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 14:41:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 14:41:59 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 14:41:59 - HHH000026: Second-level cache disabled
+2024-07-25 14:42:00 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 14:42:00 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 14:42:01 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 14:42:01 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:42:01 - Started FxDealsLoggerApplicationTests in 4.007 seconds (process running for 10.303)
+2024-07-25 14:42:02 - Deal saved successfully with ID: null
+2024-07-25 14:42:02 - Deal with this ID dealId123 already exists
+2024-07-25 14:42:02 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:43:47 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 21656 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 14:43:47 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 14:43:48 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 14:43:48 - Finished Spring Data repository scanning in 73 ms. Found 1 JPA repository interface.
+2024-07-25 14:43:48 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 14:43:48 - Starting embedded database: url='jdbc:h2:mem:5b94c1fd-ab04-4da1-8212-6c5247a9dce8;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 14:43:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 14:43:49 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 14:43:49 - HHH000026: Second-level cache disabled
+2024-07-25 14:43:49 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 14:43:49 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 14:43:50 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 14:43:50 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:43:51 - Started FxDealsLoggerApplicationTests in 4.045 seconds (process running for 8.969)
+2024-07-25 14:43:51 - Deal saved successfully with ID: null
+2024-07-25 14:43:51 - Deal with this ID dealId123 already exists
+2024-07-25 14:43:51 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:49:44 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 23596 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 14:49:44 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 14:49:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 14:49:44 - Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interface.
+2024-07-25 14:49:44 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 14:49:44 - Starting embedded database: url='jdbc:h2:mem:13b9aef4-8d75-4fc6-9923-ebe6f05f7c07;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 14:49:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 14:49:45 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 14:49:45 - HHH000026: Second-level cache disabled
+2024-07-25 14:49:45 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 14:49:45 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 14:49:46 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 14:49:46 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 14:49:47 - Started FxDealsLoggerApplicationTests in 4.169 seconds (process running for 9.082)
+2024-07-25 14:49:48 - Deal saved successfully with ID: null
+2024-07-25 14:49:48 - Deal with this ID dealId123 already exists
+2024-07-25 14:49:48 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 15:49:11 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 21624 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 15:49:11 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 15:49:11 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 15:49:12 - Finished Spring Data repository scanning in 79 ms. Found 1 JPA repository interface.
+2024-07-25 15:49:12 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 15:49:12 - Starting embedded database: url='jdbc:h2:mem:923309c7-8059-41ff-b9ce-bd3c5e5772f9;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 15:49:12 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 15:49:12 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 15:49:12 - HHH000026: Second-level cache disabled
+2024-07-25 15:49:13 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 15:49:13 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 15:49:14 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 15:49:14 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 15:49:14 - Started FxDealsLoggerApplicationTests in 3.931 seconds (process running for 8.606)
+2024-07-25 15:49:15 - Deal saved successfully with ID: null
+2024-07-25 15:49:15 - Deal with this ID dealId123 already exists
+2024-07-25 15:49:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 15:49:47 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-25 15:49:48 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 21464 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-25 15:49:48 - No active profile set, falling back to 1 default profile: "default"
+2024-07-25 15:49:48 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-25 15:49:48 - Finished Spring Data repository scanning in 98 ms. Found 1 JPA repository interface.
+2024-07-25 15:49:48 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-25 15:49:49 - Starting embedded database: url='jdbc:h2:mem:54913d8c-21f3-4d35-8d98-bd5d9e674a87;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-25 15:49:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-25 15:49:49 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-25 15:49:49 - HHH000026: Second-level cache disabled
+2024-07-25 15:49:49 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-25 15:49:49 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-25 15:49:50 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-25 15:49:50 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-25 15:49:51 - Started FxDealsLoggerApplicationTests in 4.415 seconds (process running for 7.99)
+2024-07-25 15:49:52 - Initializing Spring TestDispatcherServlet ''
+2024-07-25 15:49:52 - Initializing Servlet ''
+2024-07-25 15:49:52 - Completed initialization in 7 ms
+2024-07-25 15:49:53 - Received request to create deal: DealEntity(id=null, dealId=12345, fromCurrencyIsoCode=USD, toCurrencyIsoCode=EUR, dealTimestamp=2024-07-23T10:15:30, dealAmount=1000.5)
+2024-07-25 15:49:53 - Deal created successfully with ID: null
+2024-07-25 15:49:53 - Closing JPA EntityManagerFactory for persistence unit 'default'

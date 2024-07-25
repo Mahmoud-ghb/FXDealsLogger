@@ -1,0 +1,1014 @@
+2024-07-24 19:46:25 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 19328 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 19:46:25 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 19:46:25 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 19:46:25 - Finished Spring Data repository scanning in 74 ms. Found 1 JPA repository interface.
+2024-07-24 19:46:25 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 19:46:26 - Starting embedded database: url='jdbc:h2:mem:1fcca3e8-aae2-4d34-a6b6-5019455a3a59;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 19:46:26 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 19:46:26 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 19:46:27 - HHH000026: Second-level cache disabled
+2024-07-24 19:46:27 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 19:46:27 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 19:46:28 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 19:46:28 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:46:29 - Started FxDealsLoggerApplicationTests in 5.062 seconds (process running for 10.742)
+2024-07-24 19:46:30 - Deal with this ID 12345 already exists
+2024-07-24 19:46:30 - Deal saved successfully with ID: null
+2024-07-24 19:46:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:51:38 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 25124 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 19:51:38 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 19:51:39 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 19:51:39 - Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interface.
+2024-07-24 19:51:39 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 19:51:39 - Starting embedded database: url='jdbc:h2:mem:47ccc483-1962-4934-8c03-fafe1a73edb7;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 19:51:41 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 19:51:41 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 19:51:41 - HHH000026: Second-level cache disabled
+2024-07-24 19:51:41 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 19:51:42 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 19:51:43 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 19:51:43 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:51:44 - Started FxDealsLoggerApplicationTests in 10.113 seconds (process running for 20.204)
+2024-07-24 19:51:45 - Deal with this ID 12345 already exists
+2024-07-24 19:51:45 - Deal saved successfully with ID: null
+2024-07-24 19:51:45 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:52:50 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 19:52:51 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 22412 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 19:52:53 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 19:52:54 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 19:52:54 - Finished Spring Data repository scanning in 74 ms. Found 1 JPA repository interface.
+2024-07-24 19:52:54 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 19:52:55 - Starting embedded database: url='jdbc:h2:mem:35c8a74d-ea84-4757-95f9-42793847cfe3;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 19:52:56 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 19:52:56 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 19:52:56 - HHH000026: Second-level cache disabled
+2024-07-24 19:52:57 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 19:52:57 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 19:52:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 19:52:59 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:53:00 - Started FxDealsLoggerApplicationTests in 10.554 seconds (process running for 13.7)
+2024-07-24 19:53:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:54:49 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 19:54:49 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 24148 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 19:54:49 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 19:54:50 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 19:54:50 - Finished Spring Data repository scanning in 78 ms. Found 1 JPA repository interface.
+2024-07-24 19:54:50 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 19:54:50 - Starting embedded database: url='jdbc:h2:mem:17eeb864-c479-481b-acf2-9fc18c057c0b;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 19:54:51 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 19:54:51 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 19:54:51 - HHH000026: Second-level cache disabled
+2024-07-24 19:54:51 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 19:54:51 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 19:54:52 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 19:54:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 19:54:53 - Started FxDealsLoggerApplicationTests in 4.877 seconds (process running for 6.175)
+2024-07-24 19:54:54 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:00:32 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 20:00:33 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 11236 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 20:00:33 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 20:00:33 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 20:00:33 - Finished Spring Data repository scanning in 77 ms. Found 1 JPA repository interface.
+2024-07-24 20:00:33 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 20:00:34 - Starting embedded database: url='jdbc:h2:mem:023c7059-dde4-4235-8f97-0b43f0c3a443;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 20:00:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 20:00:34 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 20:00:34 - HHH000026: Second-level cache disabled
+2024-07-24 20:00:35 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 20:00:35 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 20:00:36 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 20:00:36 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:00:36 - Started FxDealsLoggerApplicationTests in 4.478 seconds (process running for 5.833)
+2024-07-24 20:00:37 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:04:01 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 20:04:02 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 15608 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 20:04:02 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 20:04:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 20:04:02 - Finished Spring Data repository scanning in 69 ms. Found 1 JPA repository interface.
+2024-07-24 20:04:02 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 20:04:03 - Starting embedded database: url='jdbc:h2:mem:7f3557d8-c459-4100-a1c9-631d42493954;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 20:04:03 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 20:04:03 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 20:04:03 - HHH000026: Second-level cache disabled
+2024-07-24 20:04:04 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 20:04:04 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 20:04:05 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 20:04:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:04:05 - Started FxDealsLoggerApplicationTests in 4.452 seconds (process running for 5.91)
+2024-07-24 20:04:06 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:51:51 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 20:51:51 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 19296 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 20:51:51 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 20:51:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 20:51:52 - Finished Spring Data repository scanning in 99 ms. Found 1 JPA repository interface.
+2024-07-24 20:51:52 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 20:51:53 - Starting embedded database: url='jdbc:h2:mem:e99637b6-1da9-44bb-b1ca-7d84f2c63c68;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 20:51:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 20:51:54 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 20:51:54 - HHH000026: Second-level cache disabled
+2024-07-24 20:51:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 20:51:54 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 20:51:55 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 20:51:55 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:51:56 - Started FxDealsLoggerApplicationTests in 6.053 seconds (process running for 8.375)
+2024-07-24 20:51:56 - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener] to prepare test instance [com.example.FXDealsLogger.FxDealsLoggerApplicationTests@32f45e15]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.example.FXDealsLogger.FxDealsLoggerApplicationTests': Unsatisfied dependency expressed through field 'dealService': No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:398)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:143)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:98)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:194)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:782)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1880)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 77 common frames omitted
+2024-07-24 20:51:56 - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener] to prepare test instance [com.example.FXDealsLogger.FxDealsLoggerApplicationTests@c79915a]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.example.FXDealsLogger.FxDealsLoggerApplicationTests': Unsatisfied dependency expressed through field 'dealService': No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:398)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:143)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:98)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:194)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:782)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1880)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 77 common frames omitted
+2024-07-24 20:51:56 - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener] to prepare test instance [com.example.FXDealsLogger.FxDealsLoggerApplicationTests@4ebb7bab]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.example.FXDealsLogger.FxDealsLoggerApplicationTests': Unsatisfied dependency expressed through field 'dealService': No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:398)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:143)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:98)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:194)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:782)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.apache.maven.surefire.junitplatform.LazyLauncher.execute(LazyLauncher.java:56)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.execute(JUnitPlatformProvider.java:184)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:148)
+	at org.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:122)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1880)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 77 common frames omitted
+2024-07-24 20:51:56 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:56:35 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 20:56:35 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 24852 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 20:56:35 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 20:56:35 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-24 20:56:35 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-24 20:56:38 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 20:56:38 - Finished Spring Data repository scanning in 172 ms. Found 1 JPA repository interface.
+2024-07-24 20:56:40 - Tomcat initialized with port 8080 (http)
+2024-07-24 20:56:40 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-24 20:56:40 - Starting service [Tomcat]
+2024-07-24 20:56:40 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-24 20:56:40 - Initializing Spring embedded WebApplicationContext
+2024-07-24 20:56:40 - Root WebApplicationContext: initialization completed in 4895 ms
+2024-07-24 20:56:41 - HikariPool-1 - Starting...
+2024-07-24 20:56:42 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-24 20:56:42 - HikariPool-1 - Start completed.
+2024-07-24 20:56:42 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-24 20:56:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 20:56:42 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 20:56:42 - HHH000026: Second-level cache disabled
+2024-07-24 20:56:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 20:56:43 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 20:56:45 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 20:56:45 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:56:47 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-24 20:56:48 - LiveReload server is running on port 35729
+2024-07-24 20:56:48 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-24 20:56:49 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-24 20:56:49 - Started FxDealsLoggerApplication in 15.223 seconds (process running for 17.875)
+2024-07-24 20:57:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:57:58 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-24 20:57:58 - HikariPool-1 - Shutdown initiated...
+2024-07-24 20:57:58 - HikariPool-1 - Shutdown completed.
+2024-07-24 20:58:20 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 20:58:21 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 22564 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 20:58:21 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 20:58:21 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-24 20:58:21 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-24 20:58:23 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 20:58:23 - Finished Spring Data repository scanning in 143 ms. Found 1 JPA repository interface.
+2024-07-24 20:58:25 - Tomcat initialized with port 8080 (http)
+2024-07-24 20:58:25 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-24 20:58:25 - Starting service [Tomcat]
+2024-07-24 20:58:25 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-24 20:58:25 - Initializing Spring embedded WebApplicationContext
+2024-07-24 20:58:25 - Root WebApplicationContext: initialization completed in 4398 ms
+2024-07-24 20:58:25 - HikariPool-1 - Starting...
+2024-07-24 20:58:26 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-24 20:58:26 - HikariPool-1 - Start completed.
+2024-07-24 20:58:26 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-24 20:58:26 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 20:58:26 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 20:58:26 - HHH000026: Second-level cache disabled
+2024-07-24 20:58:27 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 20:58:27 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 20:58:28 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 20:58:28 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 20:58:29 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-24 20:58:30 - LiveReload server is running on port 35729
+2024-07-24 20:58:30 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-24 20:58:30 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-24 20:58:30 - Started FxDealsLoggerApplication in 11.691 seconds (process running for 13.041)
+2024-07-24 21:00:46 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:00:46 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-24 21:00:46 - HikariPool-1 - Shutdown initiated...
+2024-07-24 21:00:46 - HikariPool-1 - Shutdown completed.
+2024-07-24 21:01:20 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 21:01:20 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 12224 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 21:01:20 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 21:01:21 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 21:01:21 - Finished Spring Data repository scanning in 96 ms. Found 1 JPA repository interface.
+2024-07-24 21:01:21 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 21:01:21 - Starting embedded database: url='jdbc:h2:mem:dbc1d834-e6df-4943-9f90-6c718c6a0080;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 21:01:22 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 21:01:22 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 21:01:22 - HHH000026: Second-level cache disabled
+2024-07-24 21:01:23 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 21:01:23 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 21:01:24 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 21:01:24 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:01:25 - Started FxDealsLoggerApplicationTests in 5.696 seconds (process running for 8.311)
+2024-07-24 21:01:25 - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener] to prepare test instance [com.example.FXDealsLogger.FxDealsLoggerApplicationTests@acea29e]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.example.FXDealsLogger.FxDealsLoggerApplicationTests': Unsatisfied dependency expressed through field 'dealService': No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:398)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:143)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:98)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:194)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:782)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:33)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1880)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 74 common frames omitted
+2024-07-24 21:01:25 - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener] to prepare test instance [com.example.FXDealsLogger.FxDealsLoggerApplicationTests@6d4f266]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.example.FXDealsLogger.FxDealsLoggerApplicationTests': Unsatisfied dependency expressed through field 'dealService': No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:398)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:143)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:98)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:194)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:782)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:33)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1880)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 74 common frames omitted
+2024-07-24 21:01:25 - Caught exception while allowing TestExecutionListener [org.springframework.test.context.support.DependencyInjectionTestExecutionListener] to prepare test instance [com.example.FXDealsLogger.FxDealsLoggerApplicationTests@4fe9adfb]
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.example.FXDealsLogger.FxDealsLoggerApplicationTests': Unsatisfied dependency expressed through field 'dealService': No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1439)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireBeanProperties(AbstractAutowireCapableBeanFactory.java:398)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.injectDependencies(DependencyInjectionTestExecutionListener.java:143)
+	at org.springframework.test.context.support.DependencyInjectionTestExecutionListener.prepareTestInstance(DependencyInjectionTestExecutionListener.java:98)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:260)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:163)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$10(ClassBasedTestDescriptor.java:378)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:383)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$11(ClassBasedTestDescriptor.java:378)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:212)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:194)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1709)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:556)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:546)
+	at java.base/java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:310)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:735)
+	at java.base/java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:734)
+	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:782)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:377)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:290)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:289)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:279)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:278)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:106)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:105)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:69)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:198)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:169)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:93)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:58)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:141)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:57)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:103)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:85)
+	at org.junit.platform.launcher.core.DelegatingLauncher.execute(DelegatingLauncher.java:47)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:63)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:33)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.FXDealsLogger.service.DealService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1880)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1406)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 74 common frames omitted
+2024-07-24 21:01:25 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:02:25 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 21:02:25 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 21044 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 21:02:25 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 21:02:26 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 21:02:26 - Finished Spring Data repository scanning in 123 ms. Found 1 JPA repository interface.
+2024-07-24 21:02:27 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 21:02:27 - Starting embedded database: url='jdbc:h2:mem:8fdc94a0-8df7-4a0c-bffd-10ab50d92c0d;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 21:02:27 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 21:02:27 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 21:02:28 - HHH000026: Second-level cache disabled
+2024-07-24 21:02:28 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 21:02:28 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 21:02:29 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 21:02:29 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:02:30 - Started FxDealsLoggerApplicationTests in 5.66 seconds (process running for 7.285)
+2024-07-24 21:02:31 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:03:16 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 21:03:16 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 19712 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 21:03:16 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 21:03:17 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 21:03:17 - Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interface.
+2024-07-24 21:03:17 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 21:03:17 - Starting embedded database: url='jdbc:h2:mem:e35390af-364c-4870-af07-42e1788cee72;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 21:03:18 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 21:03:18 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 21:03:18 - HHH000026: Second-level cache disabled
+2024-07-24 21:03:18 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 21:03:18 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 21:03:19 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 21:03:20 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:03:20 - Started FxDealsLoggerApplicationTests in 5.28 seconds (process running for 7.264)
+2024-07-24 21:03:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:33:35 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 21:33:35 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 9736 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 21:33:35 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 21:33:36 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 21:33:36 - Finished Spring Data repository scanning in 86 ms. Found 1 JPA repository interface.
+2024-07-24 21:33:36 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 21:33:37 - Starting embedded database: url='jdbc:h2:mem:99109b74-c333-4ba8-b5c7-8baad47bc865;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 21:33:38 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 21:33:38 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 21:33:38 - HHH000026: Second-level cache disabled
+2024-07-24 21:33:38 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 21:33:38 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 21:33:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 21:33:40 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 21:33:41 - Started FxDealsLoggerApplicationTests in 6.768 seconds (process running for 9.223)
+2024-07-24 21:33:42 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:01:28 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:01:28 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 23860 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:01:28 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:01:29 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:01:29 - Finished Spring Data repository scanning in 68 ms. Found 1 JPA repository interface.
+2024-07-24 22:01:29 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:01:29 - Starting embedded database: url='jdbc:h2:mem:cfea6407-19d7-41b3-8156-406b3d440974;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:01:30 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:01:30 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:01:30 - HHH000026: Second-level cache disabled
+2024-07-24 22:01:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:01:31 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:01:32 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:01:32 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:01:33 - Started FxDealsLoggerApplicationTests in 5.983 seconds (process running for 8.231)
+2024-07-24 22:01:34 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:15:12 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:15:13 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 19368 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:15:13 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:15:14 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:15:14 - Finished Spring Data repository scanning in 177 ms. Found 1 JPA repository interface.
+2024-07-24 22:15:14 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:15:14 - Starting embedded database: url='jdbc:h2:mem:e3d7914b-fa9e-422b-ad37-171ed1d6054c;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:15:15 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:15:15 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:15:15 - HHH000026: Second-level cache disabled
+2024-07-24 22:15:15 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:15:16 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:15:17 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:15:17 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:15:18 - Started FxDealsLoggerApplicationTests in 6.659 seconds (process running for 9.485)
+2024-07-24 22:15:20 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:21:32 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:21:32 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 16836 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:21:32 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:21:33 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:21:33 - Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interface.
+2024-07-24 22:21:33 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:21:33 - Starting embedded database: url='jdbc:h2:mem:ae3d94d7-da31-4a93-8c93-9ddb23b8e447;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:21:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:21:34 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:21:34 - HHH000026: Second-level cache disabled
+2024-07-24 22:21:34 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:21:34 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:21:36 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:21:36 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:21:36 - Started FxDealsLoggerApplicationTests in 4.882 seconds (process running for 6.149)
+2024-07-24 22:21:37 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:24:30 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:24:30 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 18908 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:24:30 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:24:31 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:24:31 - Finished Spring Data repository scanning in 81 ms. Found 1 JPA repository interface.
+2024-07-24 22:24:31 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:24:31 - Starting embedded database: url='jdbc:h2:mem:496ee303-7796-4ad5-b9b9-2fd679611a44;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:24:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:24:31 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:24:31 - HHH000026: Second-level cache disabled
+2024-07-24 22:24:32 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:24:32 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:24:33 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:24:33 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:24:34 - Started FxDealsLoggerApplicationTests in 4.616 seconds (process running for 6.377)
+2024-07-24 22:24:35 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:24:54 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:24:55 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 24532 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:24:55 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:24:55 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-24 22:24:55 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-24 22:24:56 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:24:56 - Finished Spring Data repository scanning in 99 ms. Found 1 JPA repository interface.
+2024-07-24 22:24:57 - Tomcat initialized with port 8080 (http)
+2024-07-24 22:24:57 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-24 22:24:57 - Starting service [Tomcat]
+2024-07-24 22:24:57 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-24 22:24:57 - Initializing Spring embedded WebApplicationContext
+2024-07-24 22:24:57 - Root WebApplicationContext: initialization completed in 2731 ms
+2024-07-24 22:24:58 - HikariPool-1 - Starting...
+2024-07-24 22:24:58 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-24 22:24:58 - HikariPool-1 - Start completed.
+2024-07-24 22:24:58 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-24 22:24:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:24:59 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:24:59 - HHH000026: Second-level cache disabled
+2024-07-24 22:25:00 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:25:00 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:25:01 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:25:01 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:25:02 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-24 22:25:03 - LiveReload server is running on port 35729
+2024-07-24 22:25:03 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-24 22:25:03 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-24 22:25:03 - Started FxDealsLoggerApplication in 9.746 seconds (process running for 10.947)
+2024-07-24 22:25:12 - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030xde0xd00xa40xd90x9a0x8dQ0xa30xaf0x14x0xd5f0x800x970xb530xde0xca0xb7N0x8d0xdb0x9c0xf30xc40x910xa3E0x8f0x8bG ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:262)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+2024-07-24 22:26:22 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-24 22:26:22 - Initializing Servlet 'dispatcherServlet'
+2024-07-24 22:26:22 - Completed initialization in 2 ms
+2024-07-24 22:26:22 - Exception: No static resource api/deals/createDeal.
+2024-07-24 22:26:22 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/deals/createDeal.]
+2024-07-24 22:27:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:27:30 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-24 22:27:30 - HikariPool-1 - Shutdown initiated...
+2024-07-24 22:27:30 - HikariPool-1 - Shutdown completed.
+2024-07-24 22:27:36 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:27:36 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 16404 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:27:36 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:27:37 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-24 22:27:37 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-24 22:27:39 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:27:39 - Finished Spring Data repository scanning in 121 ms. Found 1 JPA repository interface.
+2024-07-24 22:27:40 - Tomcat initialized with port 8080 (http)
+2024-07-24 22:27:40 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-24 22:27:40 - Starting service [Tomcat]
+2024-07-24 22:27:40 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-24 22:27:41 - Initializing Spring embedded WebApplicationContext
+2024-07-24 22:27:41 - Root WebApplicationContext: initialization completed in 4034 ms
+2024-07-24 22:27:41 - HikariPool-1 - Starting...
+2024-07-24 22:27:41 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-24 22:27:41 - HikariPool-1 - Start completed.
+2024-07-24 22:27:41 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-24 22:27:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:27:42 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:27:42 - HHH000026: Second-level cache disabled
+2024-07-24 22:27:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:27:43 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:27:45 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:27:45 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:27:46 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-24 22:27:48 - LiveReload server is running on port 35729
+2024-07-24 22:27:48 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-24 22:27:48 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-24 22:27:48 - Started FxDealsLoggerApplication in 13.558 seconds (process running for 14.685)
+2024-07-24 22:28:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-24 22:28:29 - Initializing Servlet 'dispatcherServlet'
+2024-07-24 22:28:29 - Completed initialization in 1 ms
+2024-07-24 22:28:29 - Exception: No static resource api/deals/createDeal.
+2024-07-24 22:28:29 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/deals/createDeal.]
+2024-07-24 22:28:58 - Exception: No static resource api/deals/createDeal.
+2024-07-24 22:28:58 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/deals/createDeal.]
+2024-07-24 22:30:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:30:58 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-24 22:30:58 - HikariPool-1 - Shutdown initiated...
+2024-07-24 22:30:58 - HikariPool-1 - Shutdown completed.
+2024-07-24 22:31:29 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:31:30 - Starting FxDealsLoggerApplication using Java 22.0.2 with PID 20272 (C:\Users\Dell\source\repos\FXDealsLogger\target\classes started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:31:30 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:31:30 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-24 22:31:30 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-24 22:31:32 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:31:32 - Finished Spring Data repository scanning in 155 ms. Found 1 JPA repository interface.
+2024-07-24 22:31:34 - Tomcat initialized with port 8080 (http)
+2024-07-24 22:31:34 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-24 22:31:34 - Starting service [Tomcat]
+2024-07-24 22:31:34 - Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-07-24 22:31:34 - Initializing Spring embedded WebApplicationContext
+2024-07-24 22:31:34 - Root WebApplicationContext: initialization completed in 4192 ms
+2024-07-24 22:31:34 - HikariPool-1 - Starting...
+2024-07-24 22:31:35 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:fxdeals user=SA
+2024-07-24 22:31:35 - HikariPool-1 - Start completed.
+2024-07-24 22:31:35 - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:fxdeals'
+2024-07-24 22:31:35 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:31:35 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:31:35 - HHH000026: Second-level cache disabled
+2024-07-24 22:31:36 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:31:36 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:31:38 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:31:38 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:31:40 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-24 22:31:42 - LiveReload server is running on port 35729
+2024-07-24 22:31:42 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-24 22:31:42 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-24 22:31:42 - Started FxDealsLoggerApplication in 13.837 seconds (process running for 15.418)
+2024-07-24 22:31:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-24 22:31:42 - Initializing Servlet 'dispatcherServlet'
+2024-07-24 22:31:42 - Completed initialization in 3 ms
+2024-07-24 22:31:42 - Exception: No static resource api/deals/createDeal.
+2024-07-24 22:31:42 - Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/deals/createDeal.]
+2024-07-24 22:32:34 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-24 22:32:34 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-24 22:32:42 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-24 22:32:42 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-24 22:33:28 - Exception: Content-Type 'application/octet-stream' is not supported
+2024-07-24 22:33:28 - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content-Type 'application/octet-stream' is not supported]
+2024-07-24 22:35:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:35:12 - Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-07-24 22:35:12 - HikariPool-1 - Shutdown initiated...
+2024-07-24 22:35:12 - HikariPool-1 - Shutdown completed.
+2024-07-24 22:35:58 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:35:58 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 13056 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:35:58 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:35:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:35:59 - Finished Spring Data repository scanning in 74 ms. Found 1 JPA repository interface.
+2024-07-24 22:35:59 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:35:59 - Starting embedded database: url='jdbc:h2:mem:5b362142-0fe6-4575-9996-f2e514ad55be;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:36:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:36:00 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:36:00 - HHH000026: Second-level cache disabled
+2024-07-24 22:36:01 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:36:01 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:36:02 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:36:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:36:03 - Started FxDealsLoggerApplicationTests in 6.137 seconds (process running for 8.566)
+2024-07-24 22:36:04 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:45:34 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:45:34 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 22512 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:45:34 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:45:36 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:45:36 - Finished Spring Data repository scanning in 134 ms. Found 1 JPA repository interface.
+2024-07-24 22:45:36 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:45:36 - Starting embedded database: url='jdbc:h2:mem:0672df21-8fad-4f8c-b37d-de1b3adc6cd3;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:45:37 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:45:37 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:45:38 - HHH000026: Second-level cache disabled
+2024-07-24 22:45:38 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:45:39 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:45:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:45:41 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:45:41 - Started FxDealsLoggerApplicationTests in 7.813 seconds (process running for 9.151)
+2024-07-24 22:45:43 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:50:01 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:50:01 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 4340 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:50:01 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:50:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:50:02 - Finished Spring Data repository scanning in 94 ms. Found 1 JPA repository interface.
+2024-07-24 22:50:02 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:50:02 - Starting embedded database: url='jdbc:h2:mem:60ff04fb-1c9d-4161-98a7-abb8288ae917;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:50:03 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:50:03 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:50:03 - HHH000026: Second-level cache disabled
+2024-07-24 22:50:04 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:50:04 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:50:06 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:50:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:50:07 - Started FxDealsLoggerApplicationTests in 6.587 seconds (process running for 8.491)
+2024-07-24 22:50:08 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:54:11 - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-24 22:54:11 - Starting FxDealsLoggerApplicationTests using Java 22.0.2 with PID 19100 (started by Dell in C:\Users\Dell\source\repos\FXDealsLogger)
+2024-07-24 22:54:11 - No active profile set, falling back to 1 default profile: "default"
+2024-07-24 22:54:12 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-24 22:54:12 - Finished Spring Data repository scanning in 78 ms. Found 1 JPA repository interface.
+2024-07-24 22:54:12 - Replacing 'dataSource' DataSource bean with embedded version
+2024-07-24 22:54:12 - Starting embedded database: url='jdbc:h2:mem:b73b0f40-743d-42cc-8f46-13318771cd70;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2024-07-24 22:54:13 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-24 22:54:13 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-24 22:54:13 - HHH000026: Second-level cache disabled
+2024-07-24 22:54:13 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-24 22:54:13 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-07-24 22:54:14 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-24 22:54:14 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-24 22:54:15 - Started FxDealsLoggerApplicationTests in 4.555 seconds (process running for 5.797)
+2024-07-24 22:54:16 - Closing JPA EntityManagerFactory for persistence unit 'default'

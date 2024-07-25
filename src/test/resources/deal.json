@@ -1,0 +1,7 @@
+{
+  "dealId": "12345",
+  "fromCurrencyIsoCode": "USD",
+  "toCurrencyIsoCode": "EUR",
+  "dealTimestamp": "2024-07-23T10:15:30",
+  "dealAmount": 1000.50
+}
